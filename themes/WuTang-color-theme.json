@@ -73,7 +73,6 @@
 			"name": "Operator, Misc",
 			"scope": [
 				"keyword.control",
-				"meta.tag",
 				"keyword.other.substitution",
 			],
 			"settings": {
@@ -278,7 +277,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#7fcdfa"
 			}
 		},
 		{
