@@ -1,0 +1,38 @@
+{
+    "name": "wutang",
+    "displayName": "WuTang",
+    "description": "Wu tang sword theme style. Designed for Elixir with JS and Ruby in mind.",
+    "version": "0.0.1",
+    "publisher": "Rob Pando",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "visual studio",
+        "elixir",
+        "ruby",
+        "js"
+    ],
+    "bugs": {
+        "url": "https://github.com/robpando/wutang/issues"
+    },
+    "homepage": "https://github.com/robpando/wutang",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/robpando/wutang"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "WuTang",
+                "uiTheme": "vs-dark",
+                "path": "./themes/WuTang-color-theme.json"
+            }
+        ]
+    }
+}
