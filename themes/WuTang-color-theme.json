@@ -152,7 +152,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#c0876d"
+				"foreground": "#f167c3"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#d694eb"
+				"foreground": "#7ae3fd"
 			}
 		},
 		{
