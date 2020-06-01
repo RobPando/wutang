@@ -66,7 +66,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#80b1ff"
+				"foreground": "#65bbe3"
 			}
 		},
 		{
@@ -152,7 +152,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#f167c3"
+				"foreground": "#7790d6"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 				"entity.other.inherited-class",
 			],
 			"settings": {
-				"foreground": "#7b8ef8"
+				"foreground": "#7bf8f2"
 			}
 		},
 		{
