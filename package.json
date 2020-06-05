@@ -2,7 +2,7 @@
     "name": "wutang",
     "displayName": "WuTang",
     "description": "Wu tang sword theme style. Designed for Elixir with JS and Ruby in mind.",
-    "version": "0.1.2",
+    "version": "0.2.0",
     "publisher": "sublimerob",
     "engines": {
         "vscode": "^1.45.0"
