@@ -170,6 +170,15 @@
 			}
 		},
 		{
+			"name": "String Interpolation",
+			"scope": [
+				"punctuation.definition.template-expression",
+			],
+			"settings": {
+				"foreground": "#ff6600"
+			}
+		},
+		{
 			"name": "Symbols",
 			"scope": [
 				"constant.other.symbol",
