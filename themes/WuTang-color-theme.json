@@ -175,7 +175,17 @@
 				"punctuation.definition.template-expression",
 			],
 			"settings": {
-				"foreground": "#ff6600"
+				"foreground": "#A24949"
+			}
+		},
+		{
+			"name": "String Interpolation Elixir",
+			"scope": [
+				"source.elixir.embedded.source",
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#f08c64"
 			}
 		},
 		{
